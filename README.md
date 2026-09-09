@@ -1,4 +1,5 @@
 # 📊 Sales Executive Performance Dashboard – Excel
+(https://github.com/ChintuCodes-dot/Seles-Executive-Mis-Reporting-dashboard/blob/main/Sales%20Executive%20MIS%20Report.png)
 
 ## 📌 Project Overview
 
